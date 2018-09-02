@@ -3,8 +3,8 @@
 //  Project3
 //
 //  Created by Marlo Amaya on 10/3/17.
-//  Copyright © 2017 Marlo Amaya. All rights reserved.
-//
+//  This program will take input from the user to define the sizing of a plane seating arrangement.
+//  Once the seating sizing is defined, user will get choice to assign seats, and view the progress as the seating is assigned.
 
 #include <iostream>
 #include "Plane.h"
